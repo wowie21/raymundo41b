@@ -13,16 +13,16 @@ body{
 
 header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background: pink;
+    background: black;
    
     color: white;
     padding: 8px 20px;
 }
 
 .bg-gradient{
-    background: pink;  /* fallback for old browsers */
-    background: pink;  /* Chrome 10-25, Safari 5.1-6 */
-    background: pink; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: black;  /* fallback for old browsers */
+    background: black;  /* Chrome 10-25, Safari 5.1-6 */
+    background: black; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .container{
